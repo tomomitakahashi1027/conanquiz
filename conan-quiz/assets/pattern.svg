@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+ <g fill="none" stroke="#5a4033" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- brown glasses, not blue -->
+  <circle cx="42" cy="45" r="20"/><circle cx="91" cy="45" r="20"/><path d="M62 43c5-5 9-5 12 0M22 42 8 36M111 42l14-6"/>
+  <!-- bow tie -->
+  <path d="M175 26c-26-17-37-8-30 25 7 31 21 32 38 10M185 26c26-17 37-8 30 25-7 31-21 32-38 10"/><rect x="174" y="39" width="13" height="22" rx="4"/>
+  <!-- shoe -->
+  <path d="M33 156c12 13 27 20 48 25 10 2 10 18-2 20H28c-13 0-18-11-10-22l15-23Z"/><path d="M32 178h52"/>
+  <!-- soccer ball -->
+  <circle cx="191" cy="159" r="35"/><path d="m191 141 16 12-6 19h-20l-6-19 16-12ZM191 124v17M224 148l-17 5M212 188l-11-16M170 188l11-16M158 148l17 5"/>
+  <!-- skateboard -->
+  <path d="M83 236h94c17 0 26-7 30-17M53 219c4 10 13 17 30 17"/><circle cx="91" cy="244" r="7"/><circle cx="173" cy="244" r="7"/>
+ </g>
+</svg>
